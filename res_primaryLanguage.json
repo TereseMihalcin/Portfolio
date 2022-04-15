@@ -1,48 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "My name is Terese Mihalcin. I have studied Computer Science at Seton Hill University for four years. I will earn my BS in Computer Science in May 2022. I am passionate about all things technology but I have a particular interest in Front-end Development. I have experience in ReactJS and Angular. I also have experience in Mobile development, particularly using Swift for IOS and Java for Android. I am confident in my ability to use version control systems such as GitHub as well as SourceTree. My goal as a young professional is to increase my knowledge in all software development areas, Specifically ReactJS and JavaScript. I also aim to broaden my understanding of other development processes such as database management and Back-end development. I feel that the tools I received as Seton Hill University gave me the ability to follow the path I am aiming for, but I am eager to continue my learning experience in a professional setting. Outside of my studies I have played Collegiate volleyball at Seton Hill for four years. Additionally, I enjoy many outdoor activities such as skiing, biking, and kayaking.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "video": "My Video"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Athletics Scheduling Application(Web)",
+        "startDate": "2021",
+        "description": "One of the most comprehensive software engineering project I worked on. I was one of four group members. This application supported two platforms, Web and IOS, these images are screenshots from the view I made for the web version. I worked on the frontend development and design of both platforms.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/webApp1.png",
+          "images/portfolio/animal-shelter/webApp2.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://github.com/TereseMihalcin/WebApp",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -52,32 +28,103 @@
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
+          
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Athlete Scheduling Application(IOS)",
+        "startDate": "2021",
+        "description": "This is the IOS version of the Athlete Portal Application. this roject was completed my Junior year. I was in a group of four other students. I primarily worked on the front-end of this application. I developed majority of the ScheduleFormView.swift and the SportSelectView.swift files, which allow the user to select their sport and the facility they want to use",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/photography/IOSappSC.png",
+          "images/portfolio/photography/IOSappSC2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/TereseMihalcin/Athleteportal-IOSapp",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-swift-plain",
+            "name": "SwiftUI"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-xcode-plain",
+            "name": "Xcode"
           }
         ]
+      },
+      {
+        "title": "Exercise Planner/Educational Android App",
+        "startDate": "2022",
+        "description": "This is an Exercise planning/educational workout Android mobile app. I desinged and developed this app from scratch my senior year. I used Java and android studio to create it. Currently this is still a Work in progress ",
+        "images": [
+          "images/portfolio/adventure/WorkoutApp.png"
+        ],
+        "url": "https://github.com/TereseMihalcin/workout-planner",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+          }
+        ]
+      },
+      {
+       "title": "NP problem Mario Kart Simulation",
+        "startDate": "2021",
+        "description": "This is an NP problem I completed. It simulates going through a Mario Kart track, with the goal of finding the optimal path. The track is one loop with 6 mushrooms and 3 shortcuts. The probability of hitting a mushroom, and hitting a shortcut was determined. but running the code multiple times amd analyzing the results, the optimal path was found.",
+        "images": [
+          "images/portfolio/Mario Kart/MarioTrack2.png",
+          "images/portfolio/Mario Kart/MarioTrack.png"
+        ],
+        "url": "https://github.com/TereseMihalcin/mario-kart-simulation",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pycharm-plain",
+            "name": "Pycharm"
+          } 
+          
+        ]
+      },
+      {
+        "title": "The Hotel Problem",
+        "startDate": "2021",
+        "description": "This is a algorithm problem I completed. The goal was to create a city with a number of hotels and a larger number of citizens. Each hotel had a certain number of guests it could accomodate, and each citizen was assigned the closest hotel to them. Each time the algorithm is run the location of the hotels and citizens are randomized, my algorithm    ",
+        "images": [
+          "images/portfolio/Hotel/hotelPlot.png",
+          "images/portfolio/Hotel/HotelResults.png"
+        ],
+        "url": "https://github.com/TereseMihalcin/Proj5City/blob/master/main.py",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pycharm-plain",
+            "name": "Pycharm"
+          } 
+        ]
+      },
+      {
+        "title": "Potential Mobile App Project Plan",
+        "startDate": "2021",
+        "description": "A detailed project plan for a mobile curbside ordering app for a local coffee shop. Includes a System Request and a thorough Feasibility Analysis. ",
+        "images": [
+          "images/portfolio/BinaryTree/ProjectPLan1.png",
+          "images/portfolio/BinaryTree/ProjectPLan2.png"
+        ],
+        "url": "https://github.com/TereseMihalcin",
+        "technologies": [
+          
+        ]
       }
+      
     ],
     "experience": [
       {
