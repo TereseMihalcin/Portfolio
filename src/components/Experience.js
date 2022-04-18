@@ -22,7 +22,7 @@ class Video extends Component {
                 <ReactPlayer 
                 style={{ margin: "30px" }}
                 controls
-                />
+                url = 'https://www.youtube.com/watch?v=fZkEyPKB1eo'/>
               </div>
             </div>
           </div>
