@@ -37,6 +37,8 @@ class About extends Component {
                 <a
                   href={url}
                   download
+                  target="_blank"
+                  rel="noopener noreferrer"
                 > 
                   <i 
                     className="fas fa-file-download fa-4x" 
