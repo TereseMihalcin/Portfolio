@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "My name is Terese Mihalcin. I have studied Computer Science at Seton Hill University for four years. I will earn my BS in Computer Science in May 2022. I am passionate about all things technology but I have a particular interest in Front-end Development. I have experience in ReactJS and Angular. I also have experience in Mobile development, particularly using Swift for IOS and Java for Android. I am confident in my ability to use version control systems such as GitHub as well as SourceTree. My goal as a young professional is to increase my knowledge in all software development areas, Specifically ReactJS and JavaScript. I also aim to broaden my understanding of other development processes such as database management and Back-end development. I feel that the tools I received as Seton Hill University gave me the ability to follow the path I am aiming for, but I am eager to continue my learning experience in a professional setting. Outside of my studies I have played Collegiate volleyball at Seton Hill for four years. Additionally, I enjoy many outdoor activities such as skiing, biking, and kayaking.",
+      "description": "My name is Terese Mihalcin. I have studied Computer Science at Seton Hill University for four years. I earned my BS in Computer Science in May 2022. I am passionate about all things technology but I have a particular interest in Front-end Development. I have experience in ReactJS and Angular, as well as Mobile development platforms such as IOS and Android. Please see my projects to see my experience in each. My goal as a young professional is to increase my knowledge in all software development areas. While I am passionate about React and JavaScript, I also aim to broaden my understanding of other development processes such as database management and Back-end development. I feel that the tools I received as Seton Hill University gave me the ability to follow the path I am aiming for, although I am eager to continue my learning experience in a professional setting. Outside of my studies I have played Collegiate volleyball at Seton Hill for four years. Additionally, I enjoy many outdoor activities such as skiing, biking, and kayaking.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "One of the most comprehensive software engineering project I worked on. I was one of four group members. This application supported two platforms, Web and IOS, these images are screenshots from the view I made for the web version. I worked on the frontend development and design of both platforms.",
         "images": [
-          "images/portfolio/animal-shelter/webApp1.png",
-          "images/portfolio/animal-shelter/webApp2.png"
+          "images/portfolio/WebApp/webApp1.png",
+          "images/portfolio/WebApp/webApp2.png"
         ],
         "url": "https://github.com/TereseMihalcin/WebApp",
         "technologies": [
@@ -36,8 +36,8 @@
         "startDate": "2021",
         "description": "This is the IOS version of the Athlete Portal Application. this roject was completed my Junior year. I was in a group of four other students. I primarily worked on the front-end of this application. I developed majority of the ScheduleFormView.swift and the SportSelectView.swift files, which allow the user to select their sport and the facility they want to use",
         "images": [
-          "images/portfolio/photography/IOSappSC.png",
-          "images/portfolio/photography/IOSappSC2.png"
+          "images/portfolio/IOSApp/IOSappSC.png",
+          "images/portfolio/IOSApp/IOSappSC2.png"
         ],
         "url": "https://github.com/TereseMihalcin/Athleteportal-IOSapp",
         "technologies": [
@@ -56,7 +56,9 @@
         "startDate": "2022",
         "description": "This is an Exercise planning/educational workout Android mobile app. I desinged and developed this app from scratch my senior year. I used Java and android studio to create it. Currently this is still a Work in progress ",
         "images": [
-          "images/portfolio/adventure/WorkoutApp.png"
+          "images/portfolio/WorkoutApp/pushup1.jpg",
+          "images/portfolio/WorkoutApp/AppPreview.png"
+
         ],
         "url": "https://github.com/TereseMihalcin/workout-planner",
         "technologies": [
@@ -75,8 +77,8 @@
         "startDate": "2021",
         "description": "This is an NP problem I completed. It simulates going through a Mario Kart track, with the goal of finding the optimal path. The track is one loop with 6 mushrooms and 3 shortcuts. The probability of hitting a mushroom, and hitting a shortcut was determined. but running the code multiple times amd analyzing the results, the optimal path was found.",
         "images": [
-          "images/portfolio/Mario Kart/MarioTrack2.png",
-          "images/portfolio/Mario Kart/MarioTrack.png"
+          "images/portfolio/MarioKart/MarioTrack2.png",
+          "images/portfolio/MarioKart/MarioTrack.png"
         ],
         "url": "https://github.com/TereseMihalcin/mario-kart-simulation",
         "technologies": [
@@ -116,8 +118,8 @@
         "startDate": "2021",
         "description": "A detailed project plan for a mobile curbside ordering app for a local coffee shop. Includes a System Request and a thorough Feasibility Analysis. ",
         "images": [
-          "images/portfolio/BinaryTree/ProjectPLan1.png",
-          "images/portfolio/BinaryTree/ProjectPLan2.png"
+          "images/portfolio/ProjectPlan/ProjectPLan1.png",
+          "images/portfolio/ProjectPlan/ProjectPLan2.png"
         ],
         "url": "https://github.com/TereseMihalcin",
         "technologies": [
