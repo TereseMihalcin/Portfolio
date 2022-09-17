@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Terese Mihalcin",
-      "titles": [ "Aspiring Front-end Developer", "Senior Computer Science Student", "Seton Hill University" ],
+      "titles": [ "Web Developer", "Employed at Creative Circle Media Solutions", "Seton Hill University Grad", "Former College Volleyball Player" ],
       "contact": [
         {
           "phone": "Cell: 412-889-0093",
@@ -29,14 +29,14 @@
     "skills": {
       "icons": [
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "60"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "60"
         },
         {
           "name": "React",
@@ -62,6 +62,11 @@
           "name": "Swift",
           "class": "devicon-swift-plain",
           "level": "60"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "70"
         }
       ]
     }
