@@ -11,9 +11,9 @@ class Video extends Component {
       
     
     return (
-      <section id="experience">
+      <section id="video">
         <div className="col-md-12">
-          <h1 class="section-title" style={{ color: "black" }}>
+          <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>
             </h1>
           <div className="row center mx-auto mb-5">

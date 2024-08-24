@@ -23,7 +23,7 @@
         }
       ],
       "image": "profile1.jpeg",
-      "url": "https://drive.google.com/file/d/1wDZPC_fCNHPKsMsQQg9gwpYbmCVdgs68/view?usp=sharing"
+      "url": "https://docs.google.com/document/d/1YgCpcRvnY8jUeg0aFz_imGflFj3vxGWAv3CJX3mAP7U/edit?usp=sharing"
       
     },
     "skills": {
@@ -39,19 +39,29 @@
           "level": "60"
         },
         {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "60"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "65"
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "70"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-original",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "60"
         },
         {
           "name": "Python",
@@ -59,15 +69,11 @@
           "level": "60"
         },
         {
-          "name": "Swift",
-          "class": "devicon-swift-plain",
+          "name": "Git",
+          "class": "devicon-git-plain",
           "level": "60"
-        },
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "70"
         }
+        
       ]
     }
   }

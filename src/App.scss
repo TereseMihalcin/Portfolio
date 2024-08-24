@@ -110,12 +110,13 @@ header h1 {
 	display: none;
 }
 
-#about {
+#about, #video {
 	background: #fff;
 	overflow: hidden;
 }
 
-#about h1 {
+#about h1,
+#video h1 {
 	padding-top: 7%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
@@ -125,7 +126,8 @@ header h1 {
 	text-align: center;
 }
 
-#about h2 {
+#about h2,
+#video h2 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	margin-top: 5%;
 }
@@ -333,7 +335,7 @@ header h1 {
 	color: black !important;
 }
 
-#portfolio {
+#portfolio, #experience {
 	background: #efe1bd;
 	padding-bottom: 5%;
 }
