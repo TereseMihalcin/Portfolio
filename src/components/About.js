@@ -40,10 +40,11 @@ class About extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 > 
-                  <i 
-                    className="fas fa-file-download fa-4x" 
-                    style={{ margin: "10px" }}    
-                  ></i> 
+                  <span
+                      className="iconify"
+                      data-icon="pixelarticons:download" data-width="30" data-height="30"
+                      data-inline="false"
+                    ></span>
                 </a>  
                         
                </span>
@@ -56,7 +57,7 @@ class About extends Component {
                   <div className="card-header">
                     <span
                       className="iconify"
-                      data-icon="pixelarticons:human-handsup" data-width="50" data-height="50"
+                      data-icon="pixelarticons:human-handsup" data-width="40" data-height="40"
                       data-inline="false"
                     ></span>{" "}
                     &nbsp;{" "}

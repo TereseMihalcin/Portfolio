@@ -95,15 +95,14 @@ class App extends Component {
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        {/* To be built
         <Experience
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        /> */}
-        <Video
+        />
+        {/* <Video
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        />
+        /> */}
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );
