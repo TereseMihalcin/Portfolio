@@ -12,6 +12,53 @@
     },
     "projects": [
       {
+        "title": "Lunker Recordings",
+        "startDate": "2024",
+        "description": "Record label website I built for my dad, and the numerous bands he's had over the years",
+        "images": [
+          "images/portfolio/Lunker/home.png",
+          "images/portfolio/Lunker/cards.png",
+          "images/portfolio/Lunker/band.png"
+        ],
+        "url": "https://github.com/TereseMihalcin/lunker-recordings",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+          
+        ]
+      },
+      {
+        "title": "Exercise Planner/Educational Android App",
+        "startDate": "2022",
+        "description": "This is an Exercise planning/educational workout Android mobile app. I desinged and developed this app from scratch my senior year. I used Java and android studio to create it. Currently this is still a Work in progress ",
+        "images": [
+          "images/portfolio/WorkoutApp/pushup1.jpg",
+          "images/portfolio/WorkoutApp/AppPreview.png"
+
+        ],
+        "url": "https://github.com/TereseMihalcin/workout-planner",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+          }
+        ]
+      },
+      {
         "title": "Athletics Scheduling Application(Web)",
         "startDate": "2021",
         "description": "One of the most comprehensive software engineering project I worked on. I was one of four group members. This application supported two platforms, Web and IOS, these images are screenshots from the view I made for the web version. I worked on the frontend development and design of both platforms.",
@@ -52,27 +99,7 @@
           }
         ]
       },
-      {
-        "title": "Exercise Planner/Educational Android App",
-        "startDate": "2022",
-        "description": "This is an Exercise planning/educational workout Android mobile app. I desinged and developed this app from scratch my senior year. I used Java and android studio to create it. Currently this is still a Work in progress ",
-        "images": [
-          "images/portfolio/WorkoutApp/pushup1.jpg",
-          "images/portfolio/WorkoutApp/AppPreview.png"
-
-        ],
-        "url": "https://github.com/TereseMihalcin/workout-planner",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-androidstudio-plain",
-            "name": "Android Studio"
-          }
-        ]
-      },
+      
       {
        "title": "NP problem Mario Kart Simulation",
         "startDate": "2021",
@@ -97,7 +124,7 @@
       {
         "title": "The Hotel Problem",
         "startDate": "2021",
-        "description": "This is a algorithm problem I completed. The goal was to create a city with a number of hotels and a larger number of citizens. Each hotel had a certain number of guests it could accomodate, and each citizen was assigned the closest hotel to them. Each time the algorithm is run the location of the hotels and citizens are randomized, my algorithm    ",
+        "description": "This is a algorithm problem I completed. The goal was to create a city with a number of hotels and a larger number of citizens. Each hotel had a certain number of guests it could accomodate, and each citizen was assigned the closest hotel to them. Each time the algorithm is run the location of the hotels and citizens are randomized.",
         "images": [
           "images/portfolio/Hotel/hotelPlot.png",
           "images/portfolio/Hotel/HotelResults.png"
@@ -112,56 +139,6 @@
             "class": "devicon-pycharm-plain",
             "name": "Pycharm"
           } 
-        ]
-      },
-      {
-        "title": "Potential Mobile App Project Plan",
-        "startDate": "2021",
-        "description": "A detailed project plan for a mobile curbside ordering app for a local coffee shop. Includes a System Request and a thorough Feasibility Analysis. ",
-        "images": [
-          "images/portfolio/ProjectPlan/ProjectPLan1.png",
-          "images/portfolio/ProjectPlan/ProjectPLan2.png"
-        ],
-        "url": "https://github.com/TereseMihalcin",
-        "technologies": [
-          
-        ]
-      }
-      
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
         ]
       }
     ]
